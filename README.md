@@ -10,6 +10,7 @@ are not included in the XOR.
 
 ## Usage ##
 Run with python3: python3 CyberGateLogDecrypt.py INPUTFILE
+
 The script will write the decrypted output to a file called INPUTFILE_decrypted
 
 
