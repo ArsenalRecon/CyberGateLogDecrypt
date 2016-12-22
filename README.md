@@ -22,3 +22,8 @@ Contributions and improvements to the code are welcomed.
 
 Distributed under the MIT License
 
+## More Information ##
+
+To learn more about Arsenal’s digital forensics software (Hibernation Recon, Registry Recon, and more!), please visit https://ArsenalRecon.com
+
+To learn more about Arsenal’s digital forensics consulting services, please visit us at https://ArsenalExperts.com
