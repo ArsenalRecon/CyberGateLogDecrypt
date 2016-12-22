@@ -9,8 +9,8 @@ RAT live/installed on a system you control, a chosen-text attack is a good way t
 are not included in the XOR.
 
 ## Usage ##
-Run with python3: python3 CyberGateLogDecrypt.py <inputFile>
-The script will write the decrypted output to a file called <inputFile>_decrypted
+Run with python3: python3 CyberGateLogDecrypt.py INPUTFILE
+The script will write the decrypted output to a file called INPUTFILE_decrypted
 
 
 ## Contributions ##
