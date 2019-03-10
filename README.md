@@ -20,7 +20,7 @@ Contributions and improvements to the code are welcomed.
 
 ## License ##
 
-Distributed under the MIT License
+Distributed under the MIT License. See License.md for details.
 
 ## More Information ##
 
