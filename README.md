@@ -1,6 +1,6 @@
 ## CyberGate Keylogger Decryption Tool ##
 
-Arsenal's CyberGate Keylog Decrypter script is a python tool that can be used against CyberGate encrypted keylogger files (either whole or in part, provided that the individual record is intact) to decode the cipher text and return the original plaintext that was captured by the RAT.
+Arsenal's CyberGate Keylogger Decryption Tool is a python tool that can be used against CyberGate encrypted keylogger files (either whole or in part, provided that the individual record is intact) to decode the cipher text and return the original plaintext that was captured by the RAT.
 
 Fragmented entries from the file must start with '####'.
 
